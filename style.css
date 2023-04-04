@@ -1,0 +1,32 @@
+body{
+	background-color:white;
+	padding:50px;
+}
+caption{
+	background-color:lightblue;
+	border:2px solid black;
+	border-collapse:collapse;
+	height:20px;
+	padding:20px;
+	font-size:30px;
+} 
+table,tr,th,td{
+		border:2px solid black;
+		border-collapse:collapse;
+		padding:20px;
+		background-color:lightgreen;
+}
+th{
+	font-size:20px;
+}
+.pen{text-align:center;}
+.pencil{text-align:left;}
+.book{text-align:right;}
+.music{text-align:justify;}	
+
+.dell{text-align-last:center;}
+.crome{text-align-last:right;}
+.bike{text-align-last:justify;}
+ 
+h1{font-size:25px;color:gray;text-align:center;}
+p{direction:rtl;unicode-bidi:bidi-override;font-size:20px;}
